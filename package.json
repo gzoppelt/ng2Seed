@@ -1,0 +1,33 @@
+{
+  "name": "ng2Seed",
+  "version": "1.0.0",
+  "description": "ng2 with typescript",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gzoppelt/ng2Seed.git"
+  },
+  "keywords": [
+    "angular2",
+    "ng2",
+    "gulp",
+    "typescipt"
+  ],
+  "author": "Guenther Zoppelt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gzoppelt/ng2Seed/issues"
+  },
+  "homepage": "https://github.com/gzoppelt/ng2Seed",
+  "devDependencies": {
+    "browser-sync": "0.0.0",
+    "gulp": "0.0.0",
+    "gulp-sourcemaps": "0.0.0",
+    "gulp-tslint": "0.0.0",
+    "gulp-typescript": "0.0.0",
+    "superstatic": "0.0.0"
+  }
+}
